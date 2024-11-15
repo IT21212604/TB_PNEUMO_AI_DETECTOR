@@ -27,4 +27,20 @@ The backend component processes chest X-ray images uploaded via the frontend, le
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/TB_Pneumo_AI_Detector_Backend.git
+   git clone https://github.com/IT21212604/TB_PNEUMO_AI_DETECTOR_BACKEND
+
+2. **Navigate to the Backend Directory:**:
+   ```bash
+  cd TB_Pneumo_AI_Detector_Backend
+
+3. **Create and Activate Virtual Environment:**:
+   python3 -m venv venv
+   source venv/bin/activate
+
+5. **Install Dependencies**:
+  pip install -r requirements.txt
+
+6. **Run the Server:**:
+   
+
+
